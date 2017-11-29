@@ -1,5 +1,5 @@
-	<script type="application/ld+json">
-	{
+<script type="application/ld+json">
+  {
      "@context" :  "http://schema.org",
      "@id" : "http://www.thearda.com/archive/files/descriptions/NSYRW1.asp",
      "@type" : "Dataset",
@@ -48,5 +48,5 @@
      ], 
      "relatedLink": "http://youthandreligion.nd.edu/assets/102499/survey.pdf",
      "dateCreated": "2003"
-	}
-	</script>
+  }
+</script>

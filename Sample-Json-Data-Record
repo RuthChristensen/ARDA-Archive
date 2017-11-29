@@ -1,0 +1,52 @@
+	<script type="application/ld+json">
+	{
+     "@context" :  "http://schema.org",
+     "@id" : "http://www.thearda.com/archive/files/descriptions/NSYRW1.asp",
+     "@type" : "Dataset",
+     "identifier" : "NSYRW1",
+     "name" : "National Study of Youth and Religion, Wave 1 (2003)",
+     "includedInDataCatalog" : "http://www.thearda.com/Archive/browse.asp",
+     "provider" : {
+        "@type" : "Organization",
+        "@id" : "The Association of Religion Data Archives"
+     },
+     "creator" : [
+       {
+         "name" :"Dr. Christian Smith",
+         "affliation" : "Department of Sociology University of Notre Dame"
+       }, 
+       {
+         "name" :"Dr. Lisa Pearce",
+         "affliation" : "University of North Carolina, Chapel Hill"
+       }
+     ], 
+     "description": "The National Survey of Youth and Religion (NSYR) is a nationally representative telephone survey of 3,290 English and Spanish-speaking teenagers between the ages of 13 and 17, and their parents. The NSYR also includes 80 oversampled Jewish households, not nationally representative, bringing the total number of completed NSYR cases to 3,370. The purpose of the NSYR is to research the shape and influence of religion and spirituality in the lives of American youth; to identify effective practices in the religious, moral, and social formation of the lives of youth; to describe the extent and perceived effectiveness of the programs and opportunities that religious communities are offering to their youth; and to foster an informed national discussion about the influence of religion in youth's lives, in order to encourage sustained reflection about and rethinking of our cultural and institutional practices with regard to youth and religion.",
+     "funder" : [
+       {
+         "name" :"The Lilly Endowment, Inc."
+       }
+     ], 
+     "about" : [
+       {
+         "name" :"Religious Identity"
+       }, 
+       {
+         "name" :"Adolescence"
+       }, 
+       {
+         "name" :"Religious Belief"
+       }, 
+       {
+         "name" :"Religious Activities"
+       }, 
+       {
+         "name" :"Religious Socialization"
+       }, 
+       {
+         "name" :"Education"
+       }
+     ], 
+     "relatedLink": "http://youthandreligion.nd.edu/assets/102499/survey.pdf",
+     "dateCreated": "2003"
+	}
+	</script>

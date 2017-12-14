@@ -1,0 +1,51 @@
+{
+  "@context" : "http://schema.org",
+  "@id" : "http://www.thearda.com/Archive/browse.asp",
+  "@type" : "DataCatalog",
+  "name" : "The Association of Religion Data Archives - Surveys",
+  "alternateName" : ["TheARDA Data Archive", "The ARDA Data Archive", "The ARDA"],
+  "creator" : {
+    "@type" : "Organization",
+    "@id" : "http://www.thearda.com/",
+    "name" : "The Association of Religion Data Archives"
+  },
+  "description" : "The ARDA Data Archive is a collection of hundreds of surveys, polls, and other data submitted by researchers and made available free online by the ARDA. It includes religion surveys, family surveys, health surveys, political surveys, election surveys, and general social science surveys. Codebooks are available online, allowing users to examine survey questions and response categories. Users can download data files in various formats, including, SAS, Stata, Microsoft Excel, and ASCII.",
+  "funder" : [
+    {
+    "@type" : "Organization",
+    "@id" : "http://lillyendowment.org/",
+    "name" : "Lilly Endowment Inc"
+    },
+    {
+    "@type" : "Organization",
+    "@id" : "https://www.templeton.org/",
+    "name" : "John Templeton Foundation"
+    },
+    {
+    "@type" : "Organization",
+    "@id" : "http://www.psu.edu/",
+    "name" : "Penn State University"
+    },
+    {
+    "@type" : "Organization",
+    "@id" : "https://www.chapman.edu/",
+    "name" : "Chapman University"
+    }
+  ],
+  "about" :
+  [ { "@id": "http://id.loc.gov/authorities/subjects/sh85112549",
+    "name" : "Religion"
+  },
+  {"@id" : "http://id.loc.gov/authorities/subjects/sh85025768",
+  "name" : "Church statistics"},
+  {
+    "@id" : "http://id.loc.gov/authorities/subjects/sh85112605",
+    "name": "Religious institutions"
+  }
+],
+  "genre" :
+  [{"@id" : "http://id.loc.gov/authorities/genreForms/gf2014026059",
+    "name" : "Census data"
+    }]
+
+}

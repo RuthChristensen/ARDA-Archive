@@ -33,15 +33,30 @@
     }
   ],
   "about" :
-  [ { "@id": "http://id.loc.gov/authorities/subjects/sh85112549",
-    "name" : "Religion"
-  },
-  {"@id" : "http://id.loc.gov/authorities/subjects/sh85025768",
-  "name" : "Church statistics"},
-  {
-    "@id" : "http://id.loc.gov/authorities/subjects/sh85112605",
-    "name": "Religious institutions"
-  }
+  [ { 
+    "@id": "http://id.loc.gov/authorities/subjects/sh85112549"
+    },
+    {
+    "name" : "religion data"
+    },
+    {
+    "@id" : "http://id.loc.gov/authorities/subjects/sh85127580"
+    },
+    {
+    "name" : "religion surveys"
+    },
+    {
+    "@id" : "http://id.loc.gov/authorities/subjects/sh85124003",
+     "name" : "social science surveys"
+    },
+    {
+    "@id" : "http://id.loc.gov/authorities/subjects/sh85083031",
+    "name": "health surveys"
+    },
+    {
+    "@id" : "http://id.loc.gov/authorities/subjects/sh85104459",
+    "name": "political surveys"
+    }
 ],
   "genre" :
   [{"@id" : "http://id.loc.gov/authorities/genreForms/gf2014026059",
